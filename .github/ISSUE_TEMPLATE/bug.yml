@@ -20,5 +20,6 @@ inputs:
     choices:
       - label: I agree to follow this project's [Code of Conduct](link/to/coc)
       required: true
+      - label: Must I have a second checkbox?
 
 
