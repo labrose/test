@@ -1,1 +1,22 @@
+name: Bug Report
+about: For reporting problems
+issue_body: true
+assignees: labrose
+inputs:
+- type: dropdown
+  attributes:
+    label: Operating System
+    required: true
+    choices:
+      - Windows 10
+      - iOS
+      - Linux
+      - Android
+      - Mac OS
+- type: checkboxes
+  label: Code of Conduct
+  attributes:
+    choices:
+    - value: I agree to follow this project's [Code of Conduct](link/to/coc)
+
 
