@@ -1,5 +1,6 @@
 name: Bug Report
 about: For reporting problems
+title: Let us know what the problem is!
 issue_body: true
 assignees: labrose
 inputs:
@@ -14,10 +15,10 @@ inputs:
       - Android
       - Mac OS
 - type: checkboxes
-  
   attributes:
     label: Code of Conduct
     choices:
       - label: I agree to follow this project's [Code of Conduct](link/to/coc)
+      required: true
 
 
