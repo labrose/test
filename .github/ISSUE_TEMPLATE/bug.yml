@@ -17,9 +17,8 @@ inputs:
 - type: checkboxes
   attributes:
     label: Code of Conduct
+    required: true
     choices:
       - label: I agree to follow this project's [Code of Conduct](link/to/coc)
-      required: true
-      - label: Must I have a second checkbox?
 
 
