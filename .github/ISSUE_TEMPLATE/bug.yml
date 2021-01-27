@@ -13,6 +13,7 @@ inputs:
       - Linux
       - Android
       - Mac OS
+    value:
 - type: checkboxes
   label: Code of Conduct
   attributes:
