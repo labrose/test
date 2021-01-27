@@ -14,8 +14,9 @@ inputs:
       - Android
       - Mac OS
 - type: checkboxes
-  label: Code of Conduct
+  
   attributes:
+    label: Code of Conduct
     choices:
       - label: I agree to follow this project's [Code of Conduct](link/to/coc)
 
