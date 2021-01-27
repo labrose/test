@@ -13,11 +13,10 @@ inputs:
       - Linux
       - Android
       - Mac OS
-    value:
 - type: checkboxes
   label: Code of Conduct
   attributes:
     choices:
-    - value: I agree to follow this project's [Code of Conduct](link/to/coc)
+      - label: I agree to follow this project's [Code of Conduct](link/to/coc)
 
 
