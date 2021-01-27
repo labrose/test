@@ -19,6 +19,6 @@ inputs:
     label: Code of Conduct
     choices:
       - label: I agree to follow this project's [Code of Conduct](link/to/coc)
-      - required: true
+        required: true
 
 
